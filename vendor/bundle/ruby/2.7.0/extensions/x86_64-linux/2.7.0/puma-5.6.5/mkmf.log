@@ -253,8 +253,8 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0/x86_64-linux -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0/ruby/backward -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0 -I.  -I/home/lewis/.rbenv/versions/2.7.6/include    -g -O2 -fPIC  conftest.c  -L. -L/home/lewis/.rbenv/versions/2.7.6/lib -Wl,-rpath,/home/lewis/.rbenv/versions/2.7.6/lib -L. -L/home/lewis/.rbenv/versions/2.7.6/lib  -fstack-protector-strong -rdynamic -Wl,-export-dynamic      -lssl -lcrypto -Wl,-rpath,/home/lewis/.rbenv/versions/2.7.6/lib -L/home/lewis/.rbenv/versions/2.7.6/lib -lruby  -lssl -lcrypto -lm   -lc"
-/usr/bin/ld: /tmp/ccMwgdFI.o: in function `t':
-/home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11/conftest.c:17: undefined reference to `SSL_get1_peer_certificate'
+/usr/bin/ld: /tmp/ccUoL6QJ.o: in function `t':
+/home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11/conftest.c:17: undefined reference to `SSL_get1_peer_certificate'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */

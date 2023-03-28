@@ -1,5 +1,5 @@
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230327-113717-v87a3u.rb extconf.rb
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-1erdn2r.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for linux/io_uring.h... yes
@@ -11,10 +11,10 @@ checking for port_event_t in port.h... no
 checking for sys/resource.h... yes
 creating Makefile
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
 make "DESTDIR=" clean
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
 make "DESTDIR="
 compiling bytebuffer.c
 compiling monitor.c
@@ -56,6 +56,6 @@ selector.c:499:5: warning: ignoring return value of ‘write’, declared with a
       |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 linking shared-object nio4r_ext.so
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20230327-113717-1q4k1fw
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20230328-7928-r5tvmi

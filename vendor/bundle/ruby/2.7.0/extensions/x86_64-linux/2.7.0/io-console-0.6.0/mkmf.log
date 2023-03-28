@@ -125,8 +125,8 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0/x86_64-linux -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0/ruby/backward -I/home/lewis/.rbenv/versions/2.7.6/include/ruby-2.7.0 -I. -I/home/lewis/.rbenv/versions/2.7.6/include    -g -O2 -fPIC conftest.c  -L. -L/home/lewis/.rbenv/versions/2.7.6/lib -Wl,-rpath,/home/lewis/.rbenv/versions/2.7.6/lib -L. -L/home/lewis/.rbenv/versions/2.7.6/lib  -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -Wl,-rpath,/home/lewis/.rbenv/versions/2.7.6/lib -L/home/lewis/.rbenv/versions/2.7.6/lib -lruby  -lm   -lc"
-/usr/bin/ld: /tmp/cc2ZnbLO.o: in function `t':
-/home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/io-console-0.6.0/ext/io/console/conftest.c:15: undefined reference to `rb_scheduler_timeout'
+/usr/bin/ld: /tmp/ccmuMJt2.o: in function `t':
+/home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/io-console-0.6.0/ext/io/console/conftest.c:15: undefined reference to `rb_scheduler_timeout'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */

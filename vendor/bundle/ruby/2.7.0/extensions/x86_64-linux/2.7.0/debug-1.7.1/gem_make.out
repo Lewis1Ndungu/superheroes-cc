@@ -1,16 +1,16 @@
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230327-113717-1c6gdg3.rb extconf.rb
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-e5rrt.rb extconf.rb
 creating Makefile
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
 make "DESTDIR=" clean
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
 make "DESTDIR="
 compiling debug.c
 compiling iseq_collector.c
 linking shared-object debug/debug.so
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug.so ./.gem.20230327-113717-16t2kbu/debug
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230328-7928-1ln3kiu/debug

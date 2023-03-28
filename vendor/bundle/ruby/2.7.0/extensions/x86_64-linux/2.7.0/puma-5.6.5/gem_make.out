@@ -1,5 +1,5 @@
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230327-113717-18oi8cx.rb extconf.rb
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-1g89i60.rb extconf.rb
 using OpenSSL pkgconfig (openssl.pc)
 checking for openssl/bio.h... yes
 checking for DTLS_method() in openssl/ssl.h... yes
@@ -12,16 +12,16 @@ checking for SSL_get1_peer_certificate() in openssl/ssl.h... no
 checking for Random.bytes... yes
 creating Makefile
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
 make "DESTDIR=" clean
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
 make "DESTDIR="
 compiling http11_parser.c
 compiling mini_ssl.c
 compiling puma_http11.c
 linking shared-object puma/puma_http11.so
 
-current directory: /home/lewis/suprrheroes/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
+current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20230327-113717-ua4i4c/puma
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20230328-7928-yhgrrd/puma
