@@ -15,12 +15,4 @@ class HerosController < ApplicationController
             render json: { error: "Hero not found"}, status: :not_found
         end
     end
-    def create
-        hero = Hero.create!(hero_params)
-        render json: hero 
-    end
-    private
-    def hero_params
-        params.permit(:name, :super_name)
-    end
 end

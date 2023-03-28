@@ -1,5 +1,5 @@
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-1g89i60.rb extconf.rb
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-20664-au15uk.rb extconf.rb
 using OpenSSL pkgconfig (openssl.pc)
 checking for openssl/bio.h... yes
 checking for DTLS_method() in openssl/ssl.h... yes
@@ -24,4 +24,4 @@ linking shared-object puma/puma_http11.so
 
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/puma-5.6.5/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20230328-7928-yhgrrd/puma
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20230328-20664-1ccph3b/puma

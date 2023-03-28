@@ -1,5 +1,5 @@
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/io-console-0.6.0/ext/io/console
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-c4slmb.rb extconf.rb
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-20664-jo6ee1.rb extconf.rb
 checking for termios.h... yes
 checking for cfmakeraw() in termios.h... yes
 checking for sys/ioctl.h... yes
@@ -17,4 +17,4 @@ linking shared-object io/console.so
 
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/io-console-0.6.0/ext/io/console
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 console.so ./.gem.20230328-7928-1ied9cr/io
+/usr/bin/install -c -m 0755 console.so ./.gem.20230328-20664-1ww0mhh/io

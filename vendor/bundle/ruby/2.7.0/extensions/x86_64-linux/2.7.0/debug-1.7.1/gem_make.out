@@ -1,5 +1,5 @@
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
-/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-7928-e5rrt.rb extconf.rb
+/home/lewis/.rbenv/versions/2.7.6/bin/ruby -I /home/lewis/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230328-20664-vq1dya.rb extconf.rb
 creating Makefile
 
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
@@ -13,4 +13,4 @@ linking shared-object debug/debug.so
 
 current directory: /home/lewis/superheroes-cc/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug.so ./.gem.20230328-7928-1ln3kiu/debug
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230328-20664-1dk0z94/debug
